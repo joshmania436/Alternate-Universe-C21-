@@ -7,15 +7,15 @@ var centerX = 300;
 var centerY = 300;
 
 function preload() {
-  sunImg = loadImage("sprites/sun.jpg");
-  mercuryImg =loadImage("sprites/mercury.jpg");
-  neptuneImg =loadImage("sprites/neptune.jpg");
-  marsImg = loadImage("sprites/Mars.jpg");
-  uranusImg = loadImage("sprites/Uranus.jpg");
-  saturnImg = loadImage("sprites/Saturn.jpg");
-  venusImg = loadImage("sprites/Venus.jpg");
-  earthImg = loadImage("sprites/Earth.jpg");
-  jupiterImg = loadImage("sprites/Jupiter.jpg")
+  sunImg = loadImage("Sprites/sun.jpg");
+  mercuryImg =loadImage("Sprites/mercury.jpg");
+  neptuneImg =loadImage("Sprites/neptune.jpg");
+  marsImg = loadImage("Sprites/Mars.jpg");
+  uranusImg = loadImage("Sprites/Uranus.jpg");
+  saturnImg = loadImage("Sprites/Saturn.jpg");
+  venusImg = loadImage("Sprites/Venus.jpg");
+  earthImg = loadImage("Sprites/Earth.jpg");
+  jupiterImg = loadImage("Sprites/Jupiter.jpg")
 }
 
 function setup() {
